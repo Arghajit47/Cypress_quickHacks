@@ -1,0 +1,4 @@
+{
+  "failOnNonZeroExit": false,
+  "testFiles": ["task.spec.js"]
+}

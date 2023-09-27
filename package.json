@@ -1,0 +1,17 @@
+{
+  "name": "quickhackcypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:report": "generate-mochawesome-report",
+    "test": "npm install && npx cypress run --config-file cypressexecconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.7.0",
+    "xlsx": "^0.18.5"
+  }
+}

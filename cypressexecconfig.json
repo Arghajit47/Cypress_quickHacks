@@ -1,0 +1,9 @@
+{
+  "failOnNonZeroExit": false,
+  "testFiles": [
+    "exec.spec.js",
+    "test.spec.js",
+    "test1.spec.js",
+    "test2.spec.js"
+  ]
+}
